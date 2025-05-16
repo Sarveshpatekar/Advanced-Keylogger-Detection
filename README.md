@@ -29,4 +29,3 @@ Install dependencies using pip:
 
 ```bash
 pip install keyboard psutil numpy
-
